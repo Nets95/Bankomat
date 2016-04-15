@@ -10,7 +10,7 @@ namespace bankomatNew
     {
         private string password;
         private static int counter = 0;
-        private int suma = 0;
+        private long suma = 0;
         public bankomat()
         {
             this.password = "12345";
@@ -39,16 +39,16 @@ namespace bankomatNew
                 Console.WriteLine("unlocke it in your bank resistance");
             }
         }
-        public void SetMoney(int money)
+        public void SetMoney(long money)
         { 
                    
            suma  += money;
         }
-        public int  GetMoney()
+        public long  GetMoney()
         {
             return suma;
         }
-        public int GetCash(int money)
+        public long GetCash(long money)
         {
             return suma -= money;
         }

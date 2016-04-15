@@ -38,7 +38,7 @@ namespace bankomatNew
                         case 1:
                             {
                                 Console.WriteLine("Enter a bill you want to add");
-                                int money = Convert.ToInt16(Console.ReadLine());
+                                long money = Convert.ToInt64(Console.ReadLine());
                                 if (money < 0)
                                 {
                                     Console.WriteLine("Wrong value");
@@ -57,7 +57,7 @@ namespace bankomatNew
                         case 3:
                             {
                                 Console.WriteLine("How much money would you like to take?");
-                                int money = Convert.ToInt16(Console.ReadLine());
+                                long money = Convert.ToInt64(Console.ReadLine());
                                 if (money < 0)
                                 {
                                     Console.WriteLine("Wrong value");

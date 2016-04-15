@@ -4,3 +4,9 @@ D:\C#\Шаг\bankomatNew\bankomatNew\bin\Debug\bankomatNew.pdb
 D:\C#\Шаг\bankomatNew\bankomatNew\obj\Debug\bankomatNew.csprojResolveAssemblyReference.cache
 D:\C#\Шаг\bankomatNew\bankomatNew\obj\Debug\bankomatNew.exe
 D:\C#\Шаг\bankomatNew\bankomatNew\obj\Debug\bankomatNew.pdb
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\bin\Debug\bankomatNew.exe.config
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\obj\Debug\bankomatNew.exe
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\obj\Debug\bankomatNew.pdb
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\obj\Debug\bankomatNew.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\bin\Debug\bankomatNew.exe
+C:\Users\Ivan Kupranets\Documents\Bankomat\bankomatNew\bankomatNew\bin\Debug\bankomatNew.pdb
